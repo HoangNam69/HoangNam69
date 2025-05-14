@@ -62,8 +62,8 @@
 
 <br>
 
-<h2 align="center">📑 My Favorites Quote 📑</h2>
+<!-- <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
 <a href="#" target="_blank">
   <img src="svg/quoctuandev-quotes.svg" width="846" height="150" alt="quoctuandev-official" />
-</a>
+</a> -->
