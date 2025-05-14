@@ -1,7 +1,7 @@
 <!-- QuocTuandev -->
-<a href="#" target="_blank">
+<!-- <a href="#" target="_blank">
   <img src="svg/quoctuandev.svg" width="1200" alt="quoctuandev-official" />
-</a>
+</a> -->
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
@@ -32,10 +32,10 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <a href="#" title="Quoctuandev">
+  <a href="#" title="HoangNamLe">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quoctuan-dev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
   </a>
-  <a href="#" title="Quoctuandev">
+  <a href="#" title="HoangNamLe">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=quoctuan-dev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
@@ -46,23 +46,17 @@
 <br>
 <!-- https://icons8.com -->
 <div align="center">
-  <a href="#" target="blank">
-    <img width="90" height="90" src="images/logo.png" alt="quoctuandev-blog" />
+  <a href="https://www.facebook.com/profile.php?id=100016981414205" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hoangnam-facebook" />
   </a>
-  <a href="https://facebook.com/quoctuan.dev" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="quoctuandev-facebook" />
+  <a href="https://www.linkedin.com/in/ho%C3%A0ng-nam-l%C3%AA-6591b123b/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="hoangnam-linkedin" />
   </a>
-  <a href="#" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="quoctuandev-youtube" />
+  <a href="https://www.instagram.com/hoangnamle.3101/" target="_blank">
+    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="hoangnam-instagram" />
   </a>
-  <a href="https://www.linkedin.com/in/quoctuandev/" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="quoctuandev-linkedin" />
-  </a>
-  <a href="https://www.instagram.com/quoctuandev" target="_blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="quoctuandev-instagram" />
-  </a>
-  <a href="mailto:tranquoctuan050399@gmail.com@gmail.com" target="top">
-    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="quoctuandev-email" />
+  <a href="mailto:lehoangnam.31123@gmail.com@gmail.com" target="top">
+    <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hoangnam-email" />
   </a>
 </div>
 
